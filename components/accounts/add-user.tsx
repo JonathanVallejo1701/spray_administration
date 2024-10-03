@@ -17,7 +17,7 @@ export const AddUser = () => {
     <div>
       <>
         <Button onPress={onOpen} color="primary">
-          Add User
+          Add Users
         </Button>
         <Modal
           isOpen={isOpen}
